@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shivam2890&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=2" alt="GitHub streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shivam2890&theme=transparent&hide_border=true&border_radius=7&timezone=UTC%2B5%3A30&date_format=j%20M%5B%20Y%5D&card_width=600&fire=EB5454" alt="GitHub Streak" /></a>
 
 </div>
 
