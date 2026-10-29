@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam2890&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&radius=10" alt="Contribution activity graph" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=shivam2890&theme=transparent&hide_border=true&border_radius=7&timezone=UTC%2B5%3A30&date_format=j%20M%5B%20Y%5D&card_width=600&fire=EB5454&v=3)](https://git.io/streak-stats)
 
 </div>
 
