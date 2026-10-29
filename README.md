@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Shivam Kumar Kori</h1>
+<h1 align="center">Hi 👋, I'm Shivam Kumar Kori</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | Exploring AI & Emerging Technologies</h3>
 
 <p align="center">
@@ -50,15 +50,15 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam2890&show_icons=true&theme=tokyonight&hide_border=true" alt="Shivam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam2890&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=20261029" alt="Shivam's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam2890&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam2890&layout=compact&theme=tokyonight&hide_border=true&v=20261029" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivam2890&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=shivam2890&theme=tokyonight&hide_border=true&v=20261029" alt="GitHub Streak Stats" />
 </p>
 
 ---
